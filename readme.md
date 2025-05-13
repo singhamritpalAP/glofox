@@ -32,7 +32,7 @@ Follow these steps to clone and run the application locally.
      Expected Response (HTTP 201):
      {
      "status": "success",
-     "message": "Class Pilates created successfully"
+     "message": "Class Yoga created successfully"
      }
   
    - Create a Booking
