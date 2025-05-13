@@ -1,6 +1,6 @@
 # Glofox Class Booking API
 
-This is a RESTful API for managing boutiques, studios, and gyms for creating classes and bookings, built with Go and the Gin framework. It supports creating classes and booking members into classes.
+This is a RESTful API for managing boutiques, studios, and gyms, built with Go and the Gin framework. It supports creating classes and booking members into classes.
 
 ## Prerequisites
 
